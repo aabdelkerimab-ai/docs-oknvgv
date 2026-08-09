@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-sbzca1.koi888.cfd/sitemap.xml
